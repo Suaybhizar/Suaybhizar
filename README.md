@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on my Skills<br>🤝 I’m looking for help with Exploring New Technologies<br>🌱 I’m currently learning more about Web Developer<br>📫 How to reach me: Email - Suaybhizar@hotmail.com<br>😄 Pronouns: He/His
+🔭 Currently Developing: Enhancing my skills in Python programming and exploring AI technologies.<br>🤝Looking for Collaboration: Interested in collaborating on AI and Web Development projects.<br>🌱 I’m currently learning more about Web Developer<br>📫 Contact:Reach me via email at - Suaybhizar@hotmail.com<br>💡 Future Goals: Building and sharing AI-driven projects on GitHub, including innovative applications in ML and NLP.<br>😄 Pronouns: He/His
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suaybhizar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suayb-hizar-430630146/) 
