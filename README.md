@@ -9,7 +9,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suaybhizar&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
 ### ✍️Dev Quote
